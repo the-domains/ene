@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ENE]]></title>
         <description><![CDATA[ENE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ene/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 22:53:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 23:05:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ene/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e386eaa-825d-4942-ac3b-0edd8a2ce354.jpg">]]></description>
-            <link>undefinedbae55a66-1631-4b75-a99a-fa30b5e817ef/index.html</link>
+            <link>https://thegrid.ai/ene/bae55a66-1631-4b75-a99a-fa30b5e817ef/index.html</link>
             <guid isPermaLink="false">bae55a66-1631-4b75-a99a-fa30b5e817ef</guid>
-            <pubDate>Fri, 20 May 2016 22:53:33 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 23:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
