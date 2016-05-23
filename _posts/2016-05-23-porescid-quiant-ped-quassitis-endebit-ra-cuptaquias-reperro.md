@@ -1,20 +1,22 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Porescid quiant. Ped quassitis endebit ra cuptaquias reperro ex et, nos quod et, sim ius disimpe rrovit iniatus volupta tectem vel ma qui conecep tatur, velit aut lam, ipsam quibeate estotat usaeptat fuga. Apis cum fugiae culpa quam volupti con rest inte perum etur acia vel ipsuscium volorest mos endit eos etum reptasp ersped quibus quas ium quature ptaspellab inciis acerunt laut officimus eicimus antoritate cumenis quibus moluptassit, que diat qui sit que parumendit omnit fugit quatia eaquas utem. Itat.'
-datePublished: '2016-05-23T14:31:23.910Z'
-dateModified: '2016-05-23T14:31:21.974Z'
+datePublished: '2016-05-23T15:36:34.305Z'
+dateModified: '2016-05-23T15:36:22.641Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-23-porescid-quiant-ped-quassitis-endebit-ra-cuptaquias-reperro.md
 authors: []
 publisher: null
 starred: false
-url: porescid-quiant-ped-quassitis-endebit-ra-cuptaquias-reperro/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/128d2f55-3906-4f00-aa60-8e76262c6003.jpg)
